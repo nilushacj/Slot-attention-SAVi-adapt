@@ -29,8 +29,8 @@ Refer to the workspace-specific README files
 
 - TensorBoard can be used to visualize the progress of training for both datasets (e.g. `tensorboard --logdir=ckpt_waymo/`)  
 
-<img src="./waymo-train.png" width="300" style="display: inline-block; margin-right: 10px;">
-<img src="./waymo-eval.png" width="300" style="display: inline-block;">
+  <img src="./waymo-train.png" width="300" style="display: inline-block; margin-right: 10px;">
+  <img src="./waymo-eval.png" width="300" style="display: inline-block;">
 
 
 ## References
