@@ -33,38 +33,11 @@ Refer to the workspace-specific README files
   <img src="./waymo-eval.png" width="300" style="display: inline-block;">
 
 
-## References
+## References:
+1. Elsayed, G., Mahendran, A., Van Steenkiste, S., Greff, K., Mozer, M. C., & Kipf, T. (2022). Savi++: Towards end-to-end object-centric learning from real-world videos. *Advances in Neural Information Processing Systems, 35*, 28940–28954.
 
-[1] @article{elsayed2022savi++,
-  title={Savi++: Towards end-to-end object-centric learning from real-world videos},
-  author={Elsayed, Gamaleldin and Mahendran, Aravindh and Van Steenkiste, Sjoerd and Greff, Klaus and Mozer, Michael C and Kipf, Thomas},
-  journal={Advances in Neural Information Processing Systems},
-  volume={35},
-  pages={28940--28954},
-  year={2022}
-}
+2. Yang, L., Kang, B., Huang, Z., Xu, X., Feng, J., & Zhao, H. (2024). Depth anything: Unleashing the power of large-scale unlabeled data. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 10371–10381).
 
-[2] @inproceedings{yang2024depth,
-  title={Depth anything: Unleashing the power of large-scale unlabeled data},
-  author={Yang, Lihe and Kang, Bingyi and Huang, Zilong and Xu, Xiaogang and Feng, Jiashi and Zhao, Hengshuang},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={10371--10381},
-  year={2024}
-}
+3. Sun, P., Kretzschmar, H., Dotiwalla, X., Chouard, A., Patnaik, V., Tsui, P., Guo, J., Zhou, Y., Chai, Y., Caine, B., et al. (2020). Scalability in perception for autonomous driving: Waymo open dataset. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 2446–2454).
 
-[3] @inproceedings{sun2020scalability,
-  title={Scalability in perception for autonomous driving: Waymo open dataset},
-  author={Sun, Pei and Kretzschmar, Henrik and Dotiwalla, Xerxes and Chouard, Aurelien and Patnaik, Vijaysai and Tsui, Paul and Guo, James and Zhou, Yin and Chai, Yuning and Caine, Benjamin and others},
-  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
-  pages={2446--2454},
-  year={2020}
-}
-
-[4] @inproceedings{ligocki2020brno,
-  title={Brno urban dataset-the new data for self-driving agents and mapping tasks},
-  author={Ligocki, Adam and Jelinek, Ales and Zalud, Ludek},
-  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
-  pages={3284--3290},
-  year={2020},
-  organization={IEEE}
-}
+4. Ligocki, A., Jelinek, A., & Zalud, L. (2020). Brno urban dataset—the new data for self-driving agents and mapping tasks. In *2020 IEEE International Conference on Robotics and Automation (ICRA)* (pp. 3284–3290). IEEE.
