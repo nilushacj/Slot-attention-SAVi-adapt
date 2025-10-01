@@ -115,5 +115,5 @@ The dataset can be downloaded from https://github.com/Robotics-BUT/Brno-Urban-Da
     └── extracted
 ```
 
-4. Run ADDSAVi++:
+4. (Optional) Run ADDSAVi++:
    - Execute `run_brno.sh` within the **model** sub-directory (visualize progress on TensorBoard)

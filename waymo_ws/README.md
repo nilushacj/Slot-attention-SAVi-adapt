@@ -56,5 +56,5 @@ waymo_ds_v_1_4_1/
     └── extracted
 ```
 
-3. Run ADDSAVi++:
+3. (Optional) Run ADDSAVi++:
    - Execute `run_waymo.sh` within the **model** sub-directory (visualize progress on TensorBoard)
