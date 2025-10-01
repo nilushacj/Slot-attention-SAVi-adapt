@@ -207,7 +207,7 @@ class Builder(tfds.core.GeneratorBasedBuilder):
       # `as_supervised=True` in `builder.as_dataset`.
       supervised_keys=None,
       disable_shuffling=not self.builder_config.shuffle,
-      homepage='https://github.com/nilushacj/ADDSAVI-plus-plus'
+      homepage='https://github.com/nilushacj/Slot-attention-SAVi-adapt'
     )
       
   def _split_generators(self, dl_manager: tfds.download.DownloadManager):

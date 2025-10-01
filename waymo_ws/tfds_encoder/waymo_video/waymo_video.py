@@ -94,7 +94,7 @@ class WaymoVideo(tfds.core.GeneratorBasedBuilder):
       features=batched_features,
       supervised_keys=None,
       disable_shuffling=not self.builder_config.shuffle,
-      homepage='https://github.com/nilushacj/Waymo-Custom-TFDS-dataloader'
+      homepage='hhttps://github.com/nilushacj/Slot-attention-SAVi-adapt'
     )
 
   def _split_generators(self, dl_manager: tfds.download.DownloadManager):
