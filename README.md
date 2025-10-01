@@ -5,10 +5,9 @@ This repository is aimed at bridging the gap of leveraging object centric learni
 
 ## Pre-requisites for execution
 
-- Create the environment for installing the required libraries and dependencies using the provided **requirements.yml** file. 
-
 - Depth-Anything-V2 model must be cloned (https://github.com/DepthAnything/Depth-Anything-V2) [2]
 
+- Create the environments for the required libraries and dependencies using the provided **requirements.yml** files within **env_tfds_build** (for data preparation) and **env_savi_exec** (for executing the SAVi++ [1] model (optional)). 
 
 ## Repository structure
 
@@ -47,3 +46,6 @@ Below is the complete organization of the current repository (including the mode
 4. Ligocki, A., Jelinek, A., & Zalud, L. (2020). Brno urban dataset—the new data for self-driving agents and mapping tasks. In *2020 IEEE International Conference on Robotics and Automation (ICRA)* (pp. 3284–3290). IEEE.
 
 5. Zadaianchuk, A., Seitzer, M., & Martius, G. (2023). Object-centric learning for real-world videos by predicting temporal feature similarities. Advances in Neural Information Processing Systems, 36, 61514-61545.
+
+## License
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
