@@ -4,7 +4,7 @@
 set -e
 
 # Load environment
-source activate env_addsavi
+source activate env_addsavi #TODO: change command according to your local setup of activating a virtual environment
 
 # Set extra environment paths so that Jax finds libraries from the conda environment
 export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH
