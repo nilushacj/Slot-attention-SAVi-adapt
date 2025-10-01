@@ -1,4 +1,4 @@
-name: env_addsavi
+name: env_tfds_build
 channels:
   - conda-forge
   - nvidia

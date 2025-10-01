@@ -1,0 +1,52 @@
+name: env_addsavi
+channels:
+  - conda-forge
+  - pkgs/main
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - bzip2=1.0.8
+  - ca-certificates=2025.1.31
+  - cudatoolkit=11.4.2
+  - cudnn=8.2.1.32
+  - ld_impl_linux-64=2.38
+  - libffi=3.4.2
+  - libgcc=14.2.0
+  - libgcc-ng=14.2.0
+  - libgomp=14.2.0
+  - libnsl=2.0.0
+  - libstdcxx-ng=12.1.0
+  - libuuid=2.32.1
+  - libzlib=1.2.12
+  - ncurses=6.3
+  - openssl=3.4.1
+  - pip=22.1.2
+  - python=3.10.5
+  - python_abi=3.10
+  - readline=8.1.2
+  - setuptools=62.6.0
+  - sqlite=3.39.0
+  - tk=8.6.12
+  - tzdata=2022a
+  - wheel=0.37.1
+  - xz=5.2.5
+  - zlib=1.2.12
+  - pip:
+    - absl-py==1.1.0
+    - chex==0.0.7
+    - clu==0.0.7
+    - flax==0.3.5
+    - gsutil==5.10
+    - imageio-ffmpeg==0.4.7
+    - jax==0.3.2
+    - matplotlib==3.5.2
+    - ml-collections==0.1.0
+    - numpy==1.23.0
+    - opencv-contrib-python==4.6.0.66
+    - optax==0.1.0
+    - pip==24.1
+    - pypcd==0.1.3
+    - scikit-image==0.19.3
+    - tensorflow-cpu==2.9.1
+    - tensorflow-datasets==4.6.0
+
